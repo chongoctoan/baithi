@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Hà Nội",
+    "description": "Thủ đô của Việt Nam"
+  },
+  {
+    "id": 2,
+    "name": "Đà Nẵng",
+    "description": "Thành phố biển nổi tiếng"
+  },
+  {
+    "id": 3,
+    "name": "Hồ Chí Minh",
+    "description": "Thành phố lớn nhất Việt Nam"
+  }
+]
